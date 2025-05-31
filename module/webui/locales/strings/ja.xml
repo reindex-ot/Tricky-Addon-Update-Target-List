@@ -17,12 +17,12 @@
     <string name="help_deselect_unnecessary_description">不要なカテゴリー: Xposed モジュール、root マネージャー、root 関連アプリ、Bootloader の状態を確認しない一般的なアプリです。このオプションはインターネット接続が必要です。</string>
     <string name="help_add_system_app">システムアプリを追加</string>
     <string name="help_add_system_app_description">特定のシステムアプリをアプリリストに追加します。</string>
-    <string name="help_set_keybox">AOSP と 有効な Keybox</string>
+    <string name="help_set_keybox">AOSP と有効な Keybox</string>
     <string name="help_set_keybox_description">Tricky Store の keybox.xml を置き換えます。有効な Keybox がなくなった場合は、AOSP Keybox に置き換えられます。インターネット接続が必要です。</string>
     <string name="help_set_custom_keybox">カスタム Keybox を設定</string>
-    <string name="help_set_custom_keybox_description">デバイスのストレージからカスタム Keybox ファイルをインポートします。xml ファイルのみ対応。</string>
+    <string name="help_set_custom_keybox_description">デバイスのストレージからカスタム Keybox ファイルをインポートします。インポートは xml ファイルのみ対応しています。</string>
     <string name="help_set_security_patch">セキュリティパッチを設定</string>
-    <string name="help_set_security_patch_description">カスタムセキュリティパッチの設定。自動設定は PIF モジュールのセキュリティパッチを使用します。空白のまま保存すると自動設定を無効にします。</string>
+    <string name="help_set_security_patch_description">カスタムセキュリティパッチの設定です。自動設定は PIF モジュールのセキュリティパッチを使用します。空白のまま保存すると自動設定を無効にします。</string>
     <string name="help_set_verified_boot_hash">確認付きブートハッシュを設定</string>
     <string name="help_set_verified_boot_hash_description">Key Attestation Demo から確認付きブートハッシュの値を取得します。ro.boot.vbmeta.digest をリセットして異常なブート状態を修正します。</string>
     <!-- Update -->
@@ -116,8 +116,8 @@
     <string name="add_system_app_add">追加</string>
     <string name="add_system_app_current_list">現在のシステムアプリリスト</string>
     <!-- Uninstall confirmation -->
-    <string name="confirmation_uninstall_title">アンインストールの確認</string>
-    <string name="confirmation_uninstall_message">Tricky Addonをアンインストールしてもよろしいですか</string>
+    <string name="confirmation_uninstall_title">アンインストールしますか？</string>
+    <string name="confirmation_uninstall_message">Tricky Addon をアンインストールしてもよろしいですか</string>
     <string name="confirmation_uninstall_cancel">キャンセル</string>
     <string name="confirmation_uninstall_confirm">確認</string>
 </resources>
