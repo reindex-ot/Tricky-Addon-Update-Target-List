@@ -12,7 +12,7 @@
     <string name="help_select_deselect">すべてを選択と解除</string>
     <string name="help_select_description">現在のインターフェースのすべてのアプリを選択または解除します。</string>
     <string name="help_select_denylist">DenyList から選択</string>
-    <string name="help_select_denylist_description">Magisk の環境でのみ使用可能です。Deny List 内のアプリを選択します(推奨)。</string>
+    <string name="help_select_denylist_description">Magisk の環境でのみ使用可能です。DenyList 内のアプリを選択します(推奨)。</string>
     <string name="help_deselect_unnecessary">不要な選択を解除</string>
     <string name="help_deselect_unnecessary_description">不要なカテゴリー: Xposed モジュール、root マネージャー、root 関連アプリ、Bootloader の状態を確認しない一般的なアプリです。このオプションはインターネット接続が必要です。</string>
     <string name="help_add_system_app">システムアプリを追加</string>
