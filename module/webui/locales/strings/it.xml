@@ -62,7 +62,6 @@
     <string name="about_module_name_line2">Aggiorna Target List</string>
     <string name="about_by">by</string>
     <string name="about_telegram_channel">Canale Telegram</string>
-    <string name="about_github">GitHub</string>
     <string name="about_disclaimer">Questo modulo non fa parte del modulo Tricky Store. NON segnalare eventuali problemi a Tricky Store se riscontrati.</string>
     <string name="about_acknowledgment">Riconoscimento</string>
     <!-- Prompt -->

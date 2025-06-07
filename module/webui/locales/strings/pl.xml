@@ -62,7 +62,6 @@
     <string name="about_module_name_line2">Aktualizacja listy celów</string>
     <string name="about_by">wydany przez:</string>
     <string name="about_telegram_channel">Kanał Telegram</string>
-    <string name="about_github">GitHub</string>
     <string name="about_disclaimer">Ten moduł nie jest częścią modułu Tricky Store. NIE zgłaszaj żadnych problemów do Tricky Store, jeśli je napotkasz.</string>
     <string name="about_acknowledgment">Podziękowania dla:</string>
     <!-- Prompt -->

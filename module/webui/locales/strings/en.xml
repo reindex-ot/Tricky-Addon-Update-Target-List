@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="system_default">System Default</string>
+    <string name="more_language">More</string>
     <!-- Header -->
     <string name="header_title">Tricky Addon</string>
     <!-- Help Menu-->
@@ -62,6 +63,7 @@
     <string name="about_module_name_line2">Update Target List</string>
     <string name="about_by">by</string>
     <string name="about_telegram_channel">Telegram Channel</string>
+    <string name="about_canary_update">Update to latest canary version</string>
     <string name="about_disclaimer">This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered.</string>
     <string name="about_acknowledgment">Acknowledgment</string>
     <!-- Prompt -->
@@ -77,7 +79,9 @@
     <string name="prompt_save_error">Failed to save config</string>
     <string name="prompt_uninstall_prompt">WebUI will be removed after reboot</string>
     <string name="prompt_uninstall_failed">Failed to uninstall WebUI</string>
+    <string name="prompt_checking_update">Checking udpate...</string>
     <string name="prompt_new_update">A new update is available!</string>
+    <string name="prompt_no_update">There are currently no updates available</string>
     <string name="prompt_downloading">Downloading new update...</string>
     <string name="prompt_downloaded">Download completed</string>
     <string name="prompt_download_fail">Fail to download update</string>
